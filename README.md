@@ -2,6 +2,8 @@
 
 Base set up and testing done
 
+Please consult Transmitter_basic.io for "Somewhat" complete documentation of my "Current" research and findings so far.
+
 Next Steps:
   - Read "under the hood" of the librarys
   - Consult the RF24Network Library (upwards OSI layer 3 stack)
