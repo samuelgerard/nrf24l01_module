@@ -29,4 +29,5 @@ Important Resources:
   - https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/ (Simplified Rundown of the nrf24)
   - http://tmrh20.github.io/RF24/index.html (Official documentation of RF24.h library, Layer 2 Driver)
   - http://tmrh20.github.io/RF24Network/classRF24Network.html#a25e19015dbf5073a8401e0fe71f68848 (Official documentation of RF24Network.h library for Layer 3 driver)
+  - https://online-journals.org/index.php/i-joe/article/view/13021 (Academic article on optimizing the data rates of IOT objects with wireless sensor networks)
 
