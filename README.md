@@ -6,7 +6,6 @@ Next Steps:
   - Read "under the hood" of the librarys
   - Consult the RF24Network Library (upwards OSI layer 3 stack)
   - Construct an imitation duplex amongst the chips
-  -
   
   
   Current Set-up:
