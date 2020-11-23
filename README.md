@@ -11,7 +11,7 @@ Next Steps:
 Current Set-up:
   - Arduino Mega x 1
   - Arduino Uno x 1
-  - 20 + pieces of wiring
+  - A lot of wires
   - LED x 1
   - 9V alkaline battery x 1
   - 100 Ohm resistor x 1
